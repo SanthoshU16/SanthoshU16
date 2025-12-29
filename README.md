@@ -38,6 +38,7 @@
 ### 🤖 AI / ML / Data
 - Scikit-learn, Tensorflow
 - Pandas, NumPy, Matplotlib, Seaborn
+- Colab & Looker Studio
 - Streamlit
 - LLM APIs 
 - Prompt Engineering
@@ -55,20 +56,25 @@
 
 - 🤖 **SANTRA – AI Personal Assistant**  
   An intelligent assistant inspired by ChatGPT with voice support, automation, and future agent-based capabilities.
+  ![Repository](https://github.com/SanthoshU16/Voice-Assistant-SanTra-.git)
 
 - 📄 **SMARTIN**  
   Chat with PDF documents using LLMs for summarization and Q&A.
+  ![Repository](https://github.com/SanthoshU16/Smartin.git)
 
 - 🎬 **Movie Recommendation System**  
   Content-based recommendation system using similarity metrics.
+  ![Repository](https://github.com/SanthoshU16/MovieRecommendationApp.git)
 
 - 📊 **Data Science Project**
 - A Data Science Study on AI’s Role in Education  
   Analyzed survey data using Python, machine learning, and dashboards to understand how students and teachers perceive AI’s role in replacing or supporting      professors.
+  ![Repository](https://github.com/SanthoshU16/Prediction-Project.git)
 
 
 - 🧠 **Online Quiz Application**  
   Full-stack level-based quiz system with admin authentication.
+  ![Repository](https://github.com/SanthoshU16/Quiz-App.git)
 
 *(More projects available in my repositories 👇)*
 
@@ -76,9 +82,7 @@
 
 ## 📊 GitHub Stats
 
-![Santhosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
+![Santhosh's GitHub stats](https://github.com/SanthoshU16)
 
 ---
 
